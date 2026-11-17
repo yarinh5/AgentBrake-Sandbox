@@ -1,1 +1,1 @@
-export const validationMessage = "synthetic-baseline";
+export const validationMessage = "synthetic-reviewed-change";
